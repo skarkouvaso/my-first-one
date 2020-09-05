@@ -1,0 +1,126 @@
+h1
+{ 
+    text-align: center;
+    padding: 15px;
+    color: green;
+    font-family: courier;
+}
+body
+{
+background-color: black;
+}
+p1
+{
+    color: coral;
+  font-size: large;
+  font-weight: bolder;
+  
+}
+p2
+{
+  color: coral;
+  font-size: large;
+  font-weight: bolder;
+}
+p3
+{
+    color: coral;
+    font-size: large;
+    font-weight: bolder;
+}
+.intro
+{
+
+    font-size: large;
+    padding: 20px;
+    color: white
+}
+.trees
+{ 
+    font-size: large;
+    padding: 20px;
+    color: white;
+}
+.animals
+{
+    font-size: large;
+    padding: 20px;
+    color: white;
+}
+
+.ar
+{
+    width: 400px;
+}
+.amazon
+{
+    width: 450px;
+}
+h6
+{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    padding:15px;
+    color: coral;
+    
+}
+.con
+{
+    padding: 20px;
+    text-align: center;
+    font-family: fantasy;
+    font-size: larger;
+    color: white;
+}
+.plant
+{
+    text-align: center;
+    width:1000px
+    
+}
+.goal
+{
+    padding: 20px;
+    text-align: center;
+    font-size: x-large;
+    color: white;
+    font-family: cursive;
+}
+.b
+{
+    padding: 20px;
+    text-align: center;
+    width: 400px;
+}
+.poem
+{
+    padding: 40px;
+    color: white;
+    font-size: x-large;
+    font-family: cursive;
+}
+h2
+{
+    color: white;
+}
+.social a {
+    padding: 0 .5em;
+    color: coral;
+  }
+  .aria
+  {
+      color: coral;
+  }
+  .form-group
+  {
+      color: coral;
+  }
+  .form-texttext-muted
+  {
+      color: coral;
+  }
+  .btnbtn-primary
+  {
+      color: coral;
+  }
